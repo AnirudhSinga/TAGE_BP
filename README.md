@@ -6,7 +6,7 @@ The Tagged Geometric Branch Predictor (TAGE) provides state-of-the-art predictiv
 
 ## References
 #### [1] SEZNEC, A. The o-gehl branch predictor.
-#### [2] SEZNEC, A. A new case for the tage branch predictor. MICRO 2011 : The 44th Annual IEEE/ACM International Symposium on Microarchitecture (2011).
+#### [2] SEZNEC, A. A new case for the tage branch predictor. MICRO 2011 : The 44th Annual IEEE/ACM International Symposium on Microarchitecture (2011).
 #### [3] MICHAUD, P. A ppm-like, tag-based branch predictor. The Journal of Instruction-Level Parallelism (2005), pp.10.
 #### [4] MIFTAKHUTDINOV, R. Why tage is the best (website).
 #### [5] SCHLAIS, D. J., AND LIPASTI, M. H. Badgr: A practical ghr implementation for tage branch predictors. 2016 IEEE 34th International Conference on Computer Design (ICCD) (2016), 536–543.
