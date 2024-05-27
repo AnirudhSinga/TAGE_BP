@@ -1,4 +1,4 @@
-# Branch Predictor TAGE
+# TAGE Branch Predictor
 
 This project was done as part of CSCE 614 Computer Architecture course project.
 
