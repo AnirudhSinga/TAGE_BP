@@ -2,7 +2,7 @@
 
 This project was done as part of CSCE 614 Computer Architecture course project.
 
-The Tagged Geometric Branch Predictor (TAGE) provides state-of-the-art predictive accuracy for conditional branches, with equivalent storage budget outperforming all other predictors showcased at the Championship Branch Prediction in December 2004. It is one of the most commonly used branch predictor(BP), employing Geometric History Length similar to the O-GEHL predictor where history lengths are increased in Geometric series. This approach enhances prediction accuracy, as different branches often require varying history lengths. Additionally, it utilizes partially tagged components, similar to a PPM-like predictor. TAGE selects the most suitable partially tagged entry using a confidence counter known as usefulness, effectively mitigating aliasing issues.
+The Tagged Geometric Branch Predictor (TAGE) provides state-of-the-art predictive accuracy for conditional branches, with equivalent storage budget outperforming all other predictors showcased at the Championship Branch Prediction in December 2004. It is one of the most commonly used branch predictor(BP), employing Geometric History Length similar to the O-GEHL predictor where history lengths are increased in Geometric series. This approach enhances prediction accuracy, as different branches often require varying history lengths. Additionally, it utilizes partially tagged components, similar to a PPM-like predictor. TAGE selects the most suitable partially tagged entry using a confidence counter known as usefulness, effectively mitigating aliasing issues.
 
 ## References
 #### [1] SEZNEC, A. The o-gehl branch predictor.
